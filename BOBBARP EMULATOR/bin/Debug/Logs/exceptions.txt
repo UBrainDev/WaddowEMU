@@ -1,0 +1,25 @@
+
+
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.GameClients.GameClient.Dispose(Int32 ClientId) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 372
+   ? Plus.HabboHotel.GameClients.GameClientManager.DisposeConnection(Int32 clientID) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClientManager.cs:ligne 279
+   ? Plus.Core.ConnectionHandling.CloseConnection(ConnectionInformation Connection) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Core\ConnectionHandling.cs:ligne 42
+
+
+
+Exception logged 12/11/2019 17:50:15 in Room.SendMessage:
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Rooms.RoomUserManager.GetUserList() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\RoomUserManager.cs:ligne 1652
+   ? Plus.HabboHotel.Rooms.Room.SendMessage(IServerPacket Message, Boolean UsersWithRightsOnly) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Room.cs:ligne 1123
+Source:
+BobbaRP Emulator
+Data:
+Message:
+La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+Stack trace:
+   ? Plus.HabboHotel.Rooms.RoomUserManager.GetUserList() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\RoomUserManager.cs:ligne 1652
+   ? Plus.HabboHotel.Rooms.Room.SendMessage(IServerPacket Message, Boolean UsersWithRightsOnly) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Room.cs:ligne 1123
+
+
+
+

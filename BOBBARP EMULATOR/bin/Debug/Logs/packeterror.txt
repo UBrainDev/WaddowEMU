@@ -1,0 +1,778 @@
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [213] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.Communication.Packets.Incoming.Misc.DisconnectEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\DisconnectEvent.cs:ligne 14
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [1172] BODY: [0]
+:commandes[0][0][0][0][0][0][0]: 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Rooms.Chat.Commands.User.CreationsCommand.getPermission(GameClient Session) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Chat\Commands\Travaux\Quinquaillerie\CreationsCommand.cs:ligne 17
+   ? Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:ligne 96
+   ? Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:ligne 70
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [1172] BODY: [0]
+:commandes[0][0][0][0][0][0][0]: 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Rooms.Chat.Commands.User.CreationsCommand.getPermission(GameClient Session) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Chat\Commands\Travaux\Quinquaillerie\CreationsCommand.cs:ligne 17
+   ? Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:ligne 96
+   ? Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:ligne 70
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [1860] BODY: [0]Toolbar[0]	NAVIGATOR[0]client.toolbar.clicked[0][0][0][0][0][0]: 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Misc.EventTrackerEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\EventTrackerEvent.cs:ligne 23
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [1860] BODY: [0]Toolbar[0]	NAVIGATOR[0]client.toolbar.clicked[0][0][0][0][0][0]: 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Misc.EventTrackerEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\EventTrackerEvent.cs:ligne 23
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [1860] BODY: [0]Toolbar[0]	NAVIGATOR[0]client.toolbar.clicked[0][0][0][0][0][0]: 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Misc.EventTrackerEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\EventTrackerEvent.cs:ligne 23
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [213] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.Communication.Packets.Incoming.Misc.DisconnectEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\DisconnectEvent.cs:ligne 14
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [213] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.Communication.Packets.Incoming.Misc.DisconnectEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\DisconnectEvent.cs:ligne 14
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [213] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.Communication.Packets.Incoming.Misc.DisconnectEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Misc\DisconnectEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [2493] BODY: [0][0][0]: 
+System.FormatException: Le format de la cha?ne d'entr?e est incorrect.
+   ? System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ? System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ? Plus.Communication.Packets.Outgoing.Groups.ManageGroupComposer..ctor(Group Group) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Outgoing\Groups\ManageGroupComposer.cs:ligne 36
+   ? Plus.Communication.Packets.Incoming.Groups.ManageGroupEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Groups\ManageGroupEvent.cs:ligne 24
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
+
+Error in packet [125] BODY: : 
+System.NullReferenceException: La r?f?rence d'objet n'est pas d?finie ? une instance d'un objet.
+   ? Plus.HabboHotel.Users.Habbo.get_WebSocketConnection() dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\Users\Habbo.cs:ligne 1656
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SocketReady(GameClient User, Boolean Logout) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 487
+   ? Bobba.HabboRoleplay.Web.WebEventManager.SendDataDirect(GameClient User, String Data) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboRoleplay\Web\WebEventManager.cs:ligne 401
+   ? Plus.Communication.Packets.Incoming.Inventory.Purse.GetCreditsInfoEvent.Parse(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\Incoming\Inventory\Purse\GetCreditsInfoEvent.cs:ligne 17
+   ? Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\Communication\Packets\PacketManager.cs:ligne 153
+   ? Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) dans C:\Users\c?dric\Documents\BOBBARP EMULATOR (1)\BOBBARP EMULATOR\HabboHotel\GameClients\GameClient.cs:ligne 77
+
