@@ -26,7 +26,7 @@ namespace Plus.HabboHotel.Items.Interactor
             if (!Gamemap.TilesTouching(Item.GetX, Item.GetY, User.Coordinate.X, User.Coordinate.Y))
                 return;
 
-            if (User.makeAction == true && User.ConnectedMetier == false)
+            if (User.makeAction == true)
             {
                 Session.SendWhisper("Veuillez patienter.");
                 return;
@@ -35,7 +35,6 @@ namespace Plus.HabboHotel.Items.Interactor
                 User.makeAction = true;
                 if (User.ConnectedMetier == false)
                 {
-                User.ConnectedMetier = true;
                     User.Frozen = true;
                     User.OnChat(User.LastBubble, "* Demarre Bindows *", true);
                 
@@ -52,7 +51,6 @@ namespace Plus.HabboHotel.Items.Interactor
                     timer2.Interval = 3500;
                     timer2.Elapsed += delegate
                     {
-                        PlusEnvironment.GetGame().GetWebEventManager().ExecuteWebEvent(Session, "bindows", "open");
                         Session.SendWhisper("Ouverture de votre session en cours...");
                         timer2.Stop();
                     };
@@ -60,7 +58,6 @@ namespace Plus.HabboHotel.Items.Interactor
                 }
                 else
                 {
-                User.ConnectedMetier = false;
                     User.OnChat(User.LastBubble, "* Se déconnecte de sa session Bindows *", true);
                     
                     System.Timers.Timer timer1 = new System.Timers.Timer(3000);

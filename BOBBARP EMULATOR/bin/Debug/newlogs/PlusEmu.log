@@ -802,30 +802,1468 @@
 2019-03-17 22:46:25,601 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
 2019-03-17 22:46:25,602 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
 2019-03-17 22:46:25,602 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
-2019-03-17 23:11:52,105 INFO  - Plus.PlusEnvironment >> Connected to Database!
-2019-03-17 23:11:54,610 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
-2019-03-17 23:11:54,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
-2019-03-17 23:11:54,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
-2019-03-17 23:11:54,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
-2019-03-17 23:11:54,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
-2019-03-17 23:13:58,591 INFO  - Plus.PlusEnvironment >> Connected to Database!
-2019-03-17 23:14:01,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
-2019-03-17 23:14:01,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
-2019-03-17 23:14:01,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
-2019-03-17 23:14:01,801 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
-2019-03-17 23:14:01,801 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
-2019-03-17 23:14:05,872 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
-2019-03-17 23:14:37,117 INFO  - Plus.PlusEnvironment >> Connected to Database!
-2019-03-17 23:14:41,247 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
-2019-03-17 23:14:41,249 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
-2019-03-17 23:14:41,249 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
-2019-03-17 23:14:41,249 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
-2019-03-17 23:14:41,249 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
-2019-03-17 23:14:42,708 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
-2019-03-17 23:16:13,813 INFO  - Plus.PlusEnvironment >> Connected to Database!
-2019-03-17 23:16:16,196 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
-2019-03-17 23:16:16,197 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
-2019-03-17 23:16:16,197 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
-2019-03-17 23:16:16,197 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
-2019-03-17 23:16:16,198 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
-2019-03-17 23:16:17,375 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:09:47,406 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:09:48,656 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:09:48,656 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:09:48,656 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:09:48,656 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:09:48,656 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:11:16,906 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:11:18,031 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:11:18,031 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:11:18,031 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:11:18,031 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:11:18,031 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:11:18,610 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:11:19,719 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:11:19,719 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:11:19,735 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:11:19,766 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:11:19,828 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:11:19,828 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:11:19,844 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:24:38,094 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:24:38,594 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:24:38,594 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:24:38,594 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:24:38,594 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:24:38,594 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:24:39,391 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:24:44,906 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:24:44,906 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:24:44,922 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:24:44,938 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:24:45,000 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:24:45,000 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:24:45,016 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:29:18,154 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:29:18,685 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:29:18,685 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:29:18,701 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:29:18,701 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:29:18,701 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:29:19,060 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:29:19,544 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:29:19,544 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:29:19,607 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:29:19,654 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:29:19,716 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:29:19,716 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:29:19,794 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:33:14,222 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:33:14,785 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:33:14,785 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:33:14,785 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:33:14,785 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:33:14,785 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:33:15,160 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:33:15,769 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:33:15,785 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:33:15,800 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:33:15,816 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:33:15,863 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:33:15,863 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:33:15,878 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:41:55,722 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:41:55,941 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:41:55,941 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:41:55,941 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:41:55,941 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:41:55,941 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:41:56,144 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:41:56,363 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:41:56,363 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:41:56,378 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:41:56,410 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:41:56,457 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:41:56,457 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:41:56,472 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:41:56,472 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:41:56,503 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:41:56,550 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:41:56,566 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:41:56,566 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:41:56,582 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:41:56,753 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:41:56,800 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:42:26,696 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:42:33,222 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:42:33,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:42:33,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:42:33,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:42:33,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:42:33,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:42:33,878 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:42:34,144 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:42:34,144 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:42:34,160 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:42:34,175 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:42:34,222 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:42:34,222 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:42:34,238 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:42:34,253 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:42:34,269 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:42:34,316 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:42:34,316 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:42:34,332 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:42:34,332 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:42:34,363 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:42:34,425 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:43:04,347 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:43:17,097 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:43:17,300 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:43:17,300 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:43:17,300 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:43:17,300 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:43:17,300 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:43:17,488 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:43:17,738 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:43:17,738 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:43:17,769 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:43:17,785 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:43:17,847 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:43:17,847 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:43:17,863 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:43:17,863 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:43:17,879 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:43:17,941 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:43:17,941 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:43:17,941 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:43:17,957 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:43:17,988 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:43:18,035 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:43:47,973 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:44:06,597 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:44:06,786 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:44:06,786 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:44:06,786 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:44:06,786 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:44:06,786 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:44:07,191 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:44:07,425 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:44:07,425 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:44:07,441 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:44:07,472 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:44:07,519 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:44:07,519 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:44:07,519 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:44:07,535 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:44:07,550 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:44:07,597 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:44:07,613 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:44:07,613 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:44:07,613 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:44:07,644 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:44:07,691 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:44:37,628 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:44:41,457 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:44:41,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:44:41,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:44:41,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:44:41,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:44:41,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:44:41,878 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:44:42,113 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:44:42,113 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:44:42,128 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:44:42,144 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:44:42,191 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:44:42,191 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:44:42,207 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:44:42,223 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:44:42,238 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:44:42,285 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:44:42,300 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:44:42,300 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:44:42,300 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:44:42,332 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:44:42,378 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:45:12,316 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:47:12,550 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:47:12,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:47:12,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:47:12,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:47:12,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:47:12,800 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:47:13,003 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:47:13,238 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:47:13,238 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:47:13,253 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:47:13,269 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:47:13,332 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:47:13,332 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:47:13,332 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:47:13,347 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:47:13,363 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:47:13,410 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:47:13,425 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:47:13,425 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:47:13,441 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:47:13,457 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:47:13,503 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:47:43,441 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:51:19,488 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:51:19,707 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:51:19,707 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:51:19,707 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:51:19,707 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:51:19,707 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:51:19,957 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:51:20,175 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:51:20,175 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:51:20,191 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:51:20,207 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:51:20,269 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:51:20,269 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:51:20,269 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:51:20,285 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:51:20,300 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:51:20,347 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:51:20,363 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:51:20,363 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:51:20,378 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:51:20,410 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:51:20,472 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:52:47,988 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:52:48,207 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:52:48,207 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:52:48,207 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:52:48,207 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:52:48,207 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:52:48,394 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:52:48,644 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:52:48,644 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:52:48,660 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:52:48,691 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:52:48,738 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:52:48,738 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:52:48,753 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:52:48,753 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:52:48,785 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:52:48,832 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:52:48,847 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:52:48,847 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:52:48,847 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:52:48,878 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:52:48,925 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:53:20,253 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:53:20,472 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:53:20,472 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:53:20,472 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:53:20,472 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:53:20,472 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:53:20,675 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:53:20,910 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:53:20,910 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:53:20,925 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:53:20,941 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:53:21,003 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:53:21,003 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:53:21,003 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:53:21,019 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:53:21,035 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:53:21,097 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:53:21,097 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:53:21,097 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:53:21,113 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:53:21,144 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:53:21,191 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:53:51,128 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:53:58,753 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:53:58,988 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:53:58,988 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:53:58,988 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:53:58,988 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:53:58,988 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:53:59,191 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:53:59,425 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:53:59,425 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:53:59,441 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:53:59,457 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:53:59,519 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:53:59,519 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:53:59,535 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:53:59,535 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:53:59,550 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:53:59,613 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:53:59,613 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:53:59,613 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:53:59,628 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:53:59,660 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:53:59,707 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:54:29,644 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:55:34,566 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:55:34,769 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:55:34,769 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:55:34,769 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:55:34,769 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:55:34,769 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:55:34,957 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:55:35,222 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:55:35,222 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:55:35,238 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:55:35,253 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:55:35,316 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:55:35,316 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:55:35,316 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:55:35,332 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:55:35,347 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:55:35,394 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:55:35,410 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:55:35,410 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:55:35,410 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:55:35,457 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:55:35,503 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:55:51,238 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:55:51,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:55:51,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:55:51,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:55:51,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:55:51,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:55:51,660 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:55:51,910 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:55:51,910 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:55:51,925 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:55:51,957 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:55:52,003 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:55:52,003 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:55:52,003 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:55:52,019 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:55:52,035 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:55:52,082 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:55:52,097 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:55:52,097 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:55:52,097 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:55:52,128 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:55:52,175 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:55:57,753 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:55:57,957 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:55:57,957 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:55:57,957 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:55:57,957 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:55:57,957 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:55:58,207 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:55:58,441 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:55:58,457 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:55:58,457 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:55:58,472 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:55:58,535 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:55:58,535 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:55:58,550 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:55:58,550 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:55:58,566 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:55:58,628 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:55:58,628 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:55:58,644 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:55:58,644 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:55:58,675 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:55:58,722 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:56:28,660 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:56:31,863 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:56:32,066 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:56:32,066 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:56:32,066 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:56:32,066 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:56:32,066 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:56:32,269 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:56:32,535 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:56:32,535 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:56:32,550 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:56:32,566 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:56:32,613 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:56:32,613 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:56:32,628 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:56:32,644 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:56:32,660 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:56:32,722 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:56:32,738 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:56:32,738 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:56:32,738 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:56:32,785 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:56:32,847 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:57:02,753 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 22:57:09,222 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 22:57:09,425 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 22:57:09,425 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 22:57:09,425 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 22:57:09,425 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 22:57:09,425 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 22:57:09,644 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 22:57:09,878 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 22:57:09,894 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 22:57:09,910 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 22:57:09,925 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 22:57:09,972 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 22:57:09,972 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 22:57:09,988 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 22:57:09,988 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 22:57:10,003 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 22:57:10,066 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 22:57:10,082 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 22:57:10,082 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 22:57:10,082 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 22:57:10,128 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 22:57:10,175 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 22:57:40,097 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 23:01:27,066 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 23:01:27,363 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 23:01:27,363 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 23:01:27,363 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 23:01:27,363 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2019-11-11 23:01:27,363 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 23:01:27,378 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 23:01:27,457 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 23:01:27,472 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 23:01:27,472 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 23:01:27,488 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 23:01:27,535 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 0 chat styles.
+2019-11-11 23:01:27,535 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 23:01:27,550 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 23:01:27,566 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 23:01:27,566 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 23:01:27,582 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 23:01:27,597 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 23:01:27,597 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 23:01:27,613 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 23:01:27,644 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 23:01:27,660 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 0 badge definitions.
+2019-11-11 23:01:27,707 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 0 permissions.
+2019-11-11 23:01:27,707 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 0 permissions groups.
+2019-11-11 23:01:27,707 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 0 permissions group rights.
+2019-11-11 23:01:27,707 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 0 permissions subscription rights.
+2019-11-11 23:01:27,722 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 0 subscriptions.
+2019-11-11 23:01:27,832 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-11 23:01:27,832 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-11 23:01:27,847 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 78 ms)
+2019-11-11 23:09:36,003 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 23:09:38,535 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-11 23:09:38,535 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-11 23:09:38,535 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-11 23:09:38,535 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-11 23:09:38,566 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-11 23:11:12,378 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 23:11:12,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 23:11:12,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 23:11:12,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 23:11:12,597 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 23:11:12,597 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 23:11:12,832 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 23:11:13,113 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 23:11:13,128 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 23:11:13,144 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 23:11:13,160 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 23:11:13,222 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 23:11:13,222 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 23:11:13,238 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 23:11:13,238 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 23:11:13,269 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 23:11:13,316 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 23:11:13,332 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 23:11:13,332 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 23:11:13,332 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 23:11:13,363 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 23:11:13,410 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 23:11:13,457 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-11 23:11:13,457 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-11 23:11:13,457 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-11 23:11:13,457 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-11 23:11:13,472 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-11 23:11:13,535 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-11 23:11:13,535 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-11 23:11:13,535 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 468 ms)
+2019-11-11 23:13:17,628 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 23:13:17,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 23:13:17,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 23:13:17,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 23:13:17,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 23:13:17,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 23:13:18,035 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 23:13:18,269 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 23:13:18,269 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 23:13:18,285 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 23:13:18,300 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 23:13:18,347 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 23:13:18,363 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 23:13:18,363 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 23:13:18,378 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 23:13:18,394 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 23:13:18,441 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 23:13:18,441 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 23:13:18,457 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 23:13:18,457 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 23:13:18,488 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 23:13:18,550 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 23:13:18,597 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-11 23:13:18,597 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-11 23:13:18,597 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-11 23:13:18,597 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-11 23:13:18,613 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-11 23:13:18,675 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-11 23:13:18,675 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-11 23:13:18,675 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 328 ms)
+2019-11-11 23:19:04,613 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-11 23:19:07,128 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-11 23:19:07,128 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-11 23:19:07,128 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-11 23:19:07,128 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-11 23:19:07,175 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-11 23:19:11,394 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-11 23:19:11,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-11 23:19:11,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-11 23:19:11,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-11 23:19:11,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-11 23:19:11,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-11 23:19:11,800 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-11 23:19:12,097 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-11 23:19:12,097 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-11 23:19:12,113 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-11 23:19:12,144 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-11 23:19:12,191 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-11 23:19:12,191 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-11 23:19:12,207 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-11 23:19:12,222 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-11 23:19:12,253 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-11 23:19:12,300 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-11 23:19:12,316 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-11 23:19:12,316 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-11 23:19:12,332 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-11 23:19:12,363 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-11 23:19:12,425 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-11 23:19:12,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-11 23:19:12,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-11 23:19:12,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-11 23:19:12,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-11 23:19:12,472 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-11 23:19:12,550 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-11 23:19:12,550 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-11 23:19:12,550 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 468 ms)
+2019-11-12 00:56:57,441 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 00:56:59,957 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 00:56:59,972 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 00:56:59,988 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 00:56:59,988 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 00:57:00,004 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 00:57:06,035 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 00:57:06,238 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 00:57:06,238 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 00:57:06,238 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 00:57:06,238 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 00:57:06,238 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 00:57:06,441 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 00:57:06,722 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 00:57:06,738 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 00:57:06,753 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 00:57:06,769 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 00:57:06,816 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 00:57:06,816 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 00:57:06,833 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 00:57:06,847 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 00:57:06,863 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 00:57:06,910 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 00:57:06,925 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 00:57:06,925 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 00:57:06,925 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 00:57:06,957 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 00:57:07,003 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 00:57:07,050 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 00:57:07,050 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 00:57:07,050 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 00:57:07,050 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 00:57:07,066 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 00:57:07,144 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 00:57:07,144 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 00:57:07,144 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 468 ms)
+2019-11-12 00:58:44,800 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 00:58:47,316 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 00:58:47,332 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 00:58:47,347 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 00:58:47,347 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 00:58:47,363 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 00:58:48,925 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 00:58:49,113 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 00:58:49,113 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 00:58:49,113 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 00:58:49,113 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 00:58:49,113 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 00:58:49,363 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 00:58:49,597 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 00:58:49,613 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 00:58:49,628 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 00:58:49,644 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 00:58:49,691 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 00:58:49,691 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 00:58:49,707 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 00:58:49,722 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 00:58:49,738 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 00:58:49,785 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 00:58:49,800 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 00:58:49,800 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 00:58:49,800 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 00:58:49,832 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 00:58:49,878 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 00:58:49,925 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 00:58:49,925 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 00:58:49,925 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 00:58:49,925 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 00:58:49,925 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 00:58:49,988 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 00:58:49,988 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 00:58:49,988 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 374 ms)
+2019-11-12 01:09:36,863 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:09:39,378 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:09:39,378 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:09:39,378 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:09:39,378 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:09:39,378 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:09:39,394 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:09:39,394 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:09:39,410 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:09:40,628 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:09:40,644 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:09:40,660 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:09:40,691 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:09:40,738 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:09:40,738 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:09:40,753 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:09:40,769 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:09:40,785 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:09:40,847 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:09:40,863 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:09:40,863 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:09:40,878 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:09:40,894 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:09:40,957 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:09:40,988 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:09:40,988 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:09:40,988 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:09:40,988 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:09:41,003 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:09:41,066 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:09:41,066 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:09:41,082 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 578 ms)
+2019-11-12 01:17:37,550 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:17:40,066 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:17:40,066 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:17:40,066 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:17:40,066 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:17:40,066 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:17:40,082 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:17:40,082 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:17:40,097 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:17:41,222 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:17:41,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:17:41,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:17:41,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:17:41,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:17:41,441 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:17:41,613 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:17:41,847 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:17:41,863 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:17:41,878 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:17:41,910 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:17:41,957 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:17:41,957 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:17:41,972 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:17:41,972 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:17:41,988 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:17:42,050 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:17:42,050 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:17:42,066 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:17:42,066 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:17:42,097 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:17:42,160 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:17:42,207 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:17:42,207 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:17:42,207 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:17:42,207 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:17:42,207 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:17:42,285 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:17:42,285 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:17:42,285 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 437 ms)
+2019-11-12 01:19:52,222 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:19:54,753 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:19:54,753 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:19:54,753 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:19:54,753 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:19:54,753 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:19:54,769 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:19:54,769 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:19:54,785 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:19:56,316 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:19:56,519 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:19:56,519 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:19:56,519 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:19:56,519 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:19:56,519 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:19:56,707 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:19:56,941 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:19:56,957 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:19:56,972 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:19:56,988 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:19:57,035 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:19:57,035 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:19:57,050 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:19:57,050 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:19:57,066 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:19:57,128 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:19:57,128 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:19:57,144 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:19:57,144 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:19:57,175 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:19:57,222 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:19:57,253 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:19:57,253 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:19:57,253 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:19:57,253 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:19:57,269 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:19:57,316 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:19:57,316 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:19:57,332 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 375 ms)
+2019-11-12 01:25:42,394 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:25:44,910 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:25:44,910 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:25:44,910 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:25:44,910 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:25:44,910 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:25:44,941 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:25:44,941 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:25:45,097 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:26:15,910 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:26:52,300 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:26:52,503 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:26:52,503 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:26:52,503 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:26:52,503 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:26:52,503 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:26:52,707 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:26:52,957 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:26:52,957 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:26:52,972 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:26:52,988 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:26:53,035 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:26:53,035 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:26:53,050 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:26:53,066 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:26:53,082 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:26:53,128 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:26:53,144 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:26:53,144 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:26:53,144 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:26:53,191 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:26:53,238 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:26:53,285 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:26:53,285 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:26:53,285 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:26:53,285 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:26:53,300 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:26:53,363 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:26:53,363 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:26:53,363 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 359 ms)
+2019-11-12 01:30:21,675 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:30:24,191 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:30:24,191 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:30:24,191 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:30:24,207 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:30:24,207 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:30:24,207 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:30:24,207 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:30:24,222 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:30:25,269 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:30:25,332 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:30:25,332 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:30:25,363 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:30:25,363 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:30:25,378 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:30:25,441 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:30:25,441 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:30:25,441 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:30:25,457 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:30:25,488 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:30:25,535 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:30:25,566 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:30:25,566 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:30:25,566 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:30:25,566 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:30:25,582 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:30:25,644 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:30:25,644 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:30:25,644 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 406 ms)
+2019-11-12 01:35:11,082 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:35:13,597 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:35:13,597 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:35:13,597 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:35:13,613 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:35:13,613 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:35:13,628 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:35:13,628 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:35:13,660 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:35:15,410 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:35:15,644 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:35:15,660 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:35:15,660 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:35:15,660 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:35:15,660 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:35:15,878 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:35:16,160 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:35:16,175 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:35:16,191 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:35:16,207 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:35:16,269 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:35:16,269 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:35:16,269 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:35:16,285 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:35:16,300 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:35:16,363 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:35:16,363 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:35:16,363 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:35:16,378 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:35:16,410 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:35:16,457 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:35:16,503 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:35:16,503 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:35:16,503 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:35:16,503 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:35:16,503 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:35:16,550 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:35:16,550 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:35:16,566 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 562 ms)
+2019-11-12 01:42:06,910 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:42:09,425 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:42:09,425 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:42:09,425 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:42:09,441 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:42:09,441 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:42:09,457 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:42:09,457 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:42:09,472 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:42:52,394 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:42:52,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:42:52,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:42:52,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:42:52,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:42:52,582 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:42:52,753 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:42:53,019 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 01:42:53,082 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:42:53,097 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:42:53,113 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:42:53,128 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:42:53,191 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:42:53,191 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:42:53,207 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:42:53,222 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:42:53,238 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:42:53,285 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:42:53,300 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:42:53,300 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:42:53,316 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:42:53,347 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:42:53,394 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:42:53,425 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:42:53,425 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:42:53,425 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:42:53,425 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:42:53,441 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:42:53,503 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:42:53,519 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:42:53,519 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 421 ms)
+2019-11-12 01:46:01,269 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:46:03,785 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:46:03,785 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:46:03,785 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:46:03,800 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:46:03,800 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:46:03,816 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:46:03,816 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:46:03,832 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:47:37,628 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:47:37,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:47:37,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:47:37,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:47:37,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:47:37,847 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:47:38,082 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:47:38,300 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 01:47:38,332 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:47:38,347 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:47:38,363 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:47:38,378 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:47:38,426 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:47:38,426 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:47:38,441 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:47:38,457 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:47:38,472 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:47:38,519 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:47:38,535 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:47:38,535 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:47:38,550 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:47:38,582 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:47:38,613 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:47:38,660 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:47:38,660 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:47:38,660 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:47:38,660 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:47:38,660 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:47:38,722 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:47:38,722 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:47:38,722 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 453 ms)
+2019-11-12 01:52:28,925 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 01:52:31,441 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 01:52:31,441 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 01:52:31,441 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 01:52:31,457 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 01:52:31,457 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 01:52:31,472 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 01:52:31,472 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 01:52:31,503 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 01:53:16,488 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 01:53:16,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 01:53:16,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 01:53:16,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 01:53:16,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 01:53:16,675 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 01:53:16,863 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 01:53:17,113 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 01:53:17,128 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 01:53:17,144 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 01:53:17,160 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 01:53:17,222 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 01:53:17,222 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 01:53:17,238 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 01:53:17,238 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 01:53:17,269 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 01:53:17,332 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 01:53:17,332 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 01:53:17,332 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 01:53:17,347 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 01:53:17,394 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 01:53:17,441 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 01:53:17,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 01:53:17,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 01:53:17,472 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 01:53:17,488 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 01:53:17,488 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 01:53:17,535 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 01:53:17,535 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 01:53:17,535 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 421 ms)
+2019-11-12 07:24:55,939 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 07:24:58,486 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 07:24:58,502 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 50%
+2019-11-12 07:24:58,502 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 07:24:59,080 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 07:25:01,923 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 07:25:02,377 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 07:25:02,377 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 07:25:02,377 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 07:25:02,377 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 07:25:02,377 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 07:25:03,267 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 07:25:04,189 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 07:25:04,252 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 07:25:04,346 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 07:25:04,908 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 07:25:05,314 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 07:25:05,314 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 07:25:05,502 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 07:25:05,595 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 07:25:05,736 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 07:25:05,923 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 07:25:05,970 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 07:25:05,970 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 07:25:06,017 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 07:25:06,049 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 07:25:06,361 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 07:25:06,519 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 07:25:06,519 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 07:25:06,519 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 07:25:06,519 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 07:25:06,533 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 07:25:06,595 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 07:25:06,595 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 07:25:06,595 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (6 s, 124 ms)
+2019-11-12 17:56:20,455 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 17:56:22,986 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 17:56:22,986 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 17:56:22,986 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 17:56:23,002 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 17:56:23,017 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 17:56:23,033 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 17:56:23,033 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 17:56:23,111 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 17:56:24,955 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 17:56:25,705 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 17:56:25,705 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 17:56:25,720 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 17:56:25,720 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 17:56:25,720 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 17:56:25,923 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 17:56:26,392 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 17:56:26,392 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 17:56:26,439 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 17:56:26,502 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 17:56:26,548 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 17:56:26,548 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 17:56:26,611 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 17:56:26,611 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 17:56:26,673 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 17:56:26,783 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 17:56:26,783 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 17:56:26,783 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 17:56:26,798 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 17:56:26,831 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 17:56:26,923 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 17:56:26,986 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 17:56:26,986 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 17:56:26,986 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 17:56:26,986 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 17:56:27,002 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 17:56:27,064 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 17:56:27,064 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 17:56:27,064 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (4 s, 265 ms)
+2019-11-12 18:01:52,533 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 18:01:55,049 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 18:01:55,049 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 18:01:55,049 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 18:01:55,064 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 18:01:55,064 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 18:01:55,080 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 18:01:55,080 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 18:01:55,127 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 18:02:52,642 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 18:02:52,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 18:02:52,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 18:02:52,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 18:02:52,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 18:02:52,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 18:02:53,173 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 18:02:53,470 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 18:02:53,470 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 18:02:53,486 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 18:02:53,517 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 18:02:53,564 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 18:02:53,564 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 18:02:53,580 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 18:02:53,580 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 18:02:53,611 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 18:02:53,658 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 18:02:53,673 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 18:02:53,673 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 18:02:53,689 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 18:02:53,720 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 18:02:53,814 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 18:02:53,845 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 18:02:53,845 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 18:02:53,845 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 18:02:53,845 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 18:02:53,861 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 18:02:53,908 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 18:02:53,908 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 18:02:53,908 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 640 ms)
+2019-11-12 18:14:28,127 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 18:14:30,642 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 18:14:30,642 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 18:14:30,642 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 18:14:30,642 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 18:14:30,673 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 18:14:31,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 18:14:31,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 18:14:31,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 18:14:31,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 18:14:31,908 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 18:14:32,205 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 18:14:32,455 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 18:14:32,502 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 18:14:32,517 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 18:14:32,533 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 18:14:32,548 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 18:14:32,595 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 18:14:32,595 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 18:14:32,611 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 18:14:32,611 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 18:14:32,627 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 18:14:32,689 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 18:14:32,689 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 18:14:32,689 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 18:14:32,705 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 18:14:32,736 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 18:14:32,783 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 18:14:32,831 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 18:14:32,831 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 18:14:32,831 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 18:14:32,831 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 18:14:32,845 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 18:14:32,923 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 18:14:32,923 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 18:14:32,923 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 781 ms)
+2019-11-12 18:17:23,923 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 18:17:26,439 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 18:17:26,439 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 18:17:26,439 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 18:17:26,439 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 18:17:26,486 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 18:17:27,720 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 18:17:27,767 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 18:17:27,767 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 18:17:27,783 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 18:17:27,798 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 18:17:27,861 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 18:17:27,861 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 18:17:27,861 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 18:17:27,877 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 18:17:27,892 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 18:17:27,955 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 18:17:27,955 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 18:17:27,955 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 18:17:27,970 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 18:17:27,986 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 18:17:28,048 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 18:17:28,095 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 18:17:28,095 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 18:17:28,095 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 18:17:28,095 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 18:17:28,095 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 18:17:28,189 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 18:17:28,189 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 18:17:28,189 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 484 ms)
+2019-11-12 18:36:07,706 ERROR - Plus.Core.ConsoleCommandHandler >> restart is an unknown or unsupported command. Type help for more information
+2019-11-12 18:36:10,048 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 18:36:12,564 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 18:36:12,564 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 18:36:12,564 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 18:36:12,580 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 18:36:12,580 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 18:36:12,611 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 18:36:14,564 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 18:36:14,861 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 18:36:14,861 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 18:36:14,861 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 18:36:14,861 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 18:36:14,861 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 18:36:15,095 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 18:36:15,314 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 18:36:15,361 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 18:36:15,377 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 18:36:15,392 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 18:36:15,408 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 18:36:15,455 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 18:36:15,455 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 18:36:15,470 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 18:36:15,486 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 18:36:15,502 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 18:36:15,549 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 18:36:15,564 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 18:36:15,564 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 18:36:15,564 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 18:36:15,595 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 18:36:15,658 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 18:36:15,689 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 18:36:15,689 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 18:36:15,705 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 18:36:15,705 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 18:36:15,705 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 18:36:15,752 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 18:36:15,752 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 18:36:15,752 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 562 ms)
+2019-11-12 18:50:18,533 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 18:50:21,048 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 18:50:21,048 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 18:50:21,048 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 18:50:21,048 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 18:50:21,064 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 18:50:21,080 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 18:50:21,080 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 18:50:21,111 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 18:50:26,486 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 18:50:26,673 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 18:50:26,673 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 18:50:26,673 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 18:50:26,673 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 18:50:26,673 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 18:50:26,892 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 18:50:27,158 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 18:50:27,236 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 18:50:27,252 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 18:50:27,267 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 18:50:27,283 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 18:50:27,330 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 18:50:27,330 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 18:50:27,345 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 18:50:27,361 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 18:50:27,377 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 18:50:27,439 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 18:50:27,439 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 18:50:27,439 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 18:50:27,455 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 18:50:27,470 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 18:50:27,517 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 18:50:27,564 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 18:50:27,564 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 18:50:27,564 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 18:50:27,564 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 18:50:27,580 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 18:50:27,627 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 18:50:27,627 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 18:50:27,642 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 843 ms)
+2019-11-12 19:00:40,002 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 19:00:42,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 19:00:42,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 19:00:42,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 19:00:42,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 19:00:42,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 19:00:42,548 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 19:00:42,548 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 19:00:42,580 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 19:01:39,830 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 19:01:40,048 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 19:01:40,048 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 19:01:40,048 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 19:01:40,048 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 19:01:40,048 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 19:01:40,283 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 19:01:40,533 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 19:01:40,548 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 19:01:40,564 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 19:01:40,580 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 19:01:40,627 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 19:01:40,627 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 19:01:40,642 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 19:01:40,658 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 19:01:40,673 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 19:01:40,720 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 19:01:40,736 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 19:01:40,736 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 19:01:40,736 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 19:01:40,767 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 19:01:40,814 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 19:01:40,845 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 19:01:40,861 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 19:01:40,861 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 19:01:40,861 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 19:01:40,861 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 19:01:40,923 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 19:01:40,923 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 19:01:40,923 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (2 s, 453 ms)
+2019-11-12 20:26:08,002 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 20:26:10,517 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 20:26:10,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 20:26:10,548 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 20:26:10,580 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 20:26:13,564 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 20:26:13,814 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 20:26:13,830 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 20:26:13,830 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 20:26:13,830 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 20:26:13,830 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 20:26:14,033 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 20:26:14,283 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 20:26:14,283 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 20:26:14,298 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 20:26:14,314 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 20:26:14,361 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 20:26:14,361 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 20:26:14,377 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 20:26:14,377 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 20:26:14,408 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 20:26:14,455 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 20:26:14,471 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 20:26:14,471 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 20:26:14,471 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 20:26:14,502 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 20:26:14,564 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 20:26:14,611 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 20:26:14,611 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 20:26:14,611 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 20:26:14,611 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 20:26:14,611 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 20:26:14,689 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 20:26:14,689 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 20:26:14,689 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 515 ms)
+2019-11-12 20:32:21,658 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 20:32:24,173 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 20:32:24,173 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 20:32:24,173 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 20:32:24,189 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 20:32:24,189 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 20:32:24,252 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 20:32:25,330 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 20:32:25,330 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 20:32:25,345 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 20:32:25,361 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 20:32:25,377 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 20:32:25,423 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 20:32:25,439 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 20:32:25,439 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 20:32:25,455 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 20:32:25,470 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 20:32:25,533 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 20:32:25,580 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 20:32:25,580 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 20:32:25,580 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 20:32:25,580 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 20:32:25,580 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 20:32:25,658 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 20:32:25,673 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 20:32:25,673 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 625 ms)
+2019-11-12 20:45:24,845 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 20:45:27,361 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 20:45:27,361 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 20:45:27,361 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 20:45:27,361 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 20:45:27,361 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 20:45:27,377 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 20:45:27,392 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 20:45:27,424 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 20:45:28,548 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 20:45:28,798 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 20:45:28,798 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 20:45:28,798 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 20:45:28,798 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 20:45:28,798 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 20:45:29,142 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 20:45:29,345 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 20:45:29,392 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 20:45:29,392 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 20:45:29,408 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 20:45:29,423 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 20:45:29,486 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 20:45:29,486 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 20:45:29,502 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 20:45:29,502 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 20:45:29,533 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 20:45:29,595 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 20:45:29,595 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 20:45:29,595 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 20:45:29,612 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 20:45:29,642 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 20:45:29,689 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 20:45:29,736 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 20:45:29,736 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 20:45:29,736 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 20:45:29,736 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 20:45:29,752 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 20:45:29,814 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 20:45:29,814 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 20:45:29,814 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 656 ms)
+2019-11-12 20:54:05,736 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 20:54:08,252 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 20:54:08,252 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 20:54:08,252 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 20:54:08,252 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 20:54:08,252 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 20:54:08,267 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 20:54:08,267 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 20:54:08,298 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 20:54:11,142 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 20:54:11,361 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 20:54:11,361 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 20:54:11,361 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 20:54:11,361 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 20:54:11,361 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 20:54:11,580 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 20:54:11,830 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 1000000109, no furniture record found.
+2019-11-12 20:54:11,861 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 20:54:11,877 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 20:54:11,892 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 20:54:11,908 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 20:54:11,955 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 20:54:11,955 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 20:54:11,970 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 20:54:11,970 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 20:54:11,986 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 20:54:12,048 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 20:54:12,048 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 20:54:12,064 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 20:54:12,064 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 20:54:12,095 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 20:54:12,142 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 20:54:12,189 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 20:54:12,189 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 20:54:12,189 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 20:54:12,189 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 20:54:12,189 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 20:54:12,252 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 20:54:12,252 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 20:54:12,252 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 421 ms)
+2019-11-12 21:00:46,017 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 21:00:48,533 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:00:48,549 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:00:48,581 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:00:48,581 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 21:00:48,581 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 21:00:48,595 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:00:48,595 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:00:48,595 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:00:48,595 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 21:00:48,595 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 21:00:48,611 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 50%
+2019-11-12 21:00:48,611 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 21:00:48,627 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.
+2019-11-12 21:00:54,517 INFO  - Plus.PlusEnvironment >> Connected to Database!
+2019-11-12 21:00:54,736 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2019-11-12 21:00:54,736 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2019-11-12 21:00:54,736 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2019-11-12 21:00:54,736 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 27 username and machine bans.
+2019-11-12 21:00:54,736 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2019-11-12 21:00:54,955 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2019-11-12 21:00:55,142 ERROR - Plus.HabboHotel.Catalog.CatalogManager >> Couldn't load Catalog Item 88805175, no furniture record found.
+2019-11-12 21:00:55,189 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2019-11-12 21:00:55,205 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2019-11-12 21:00:55,220 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2019-11-12 21:00:55,236 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2019-11-12 21:00:55,580 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2019-11-12 21:00:55,580 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2019-11-12 21:00:55,595 INFO  - Plus.HabboHotel.Groups.GroupManager >> MÉTIERS -> CHARGÉS
+2019-11-12 21:00:55,595 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2019-11-12 21:00:55,611 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2019-11-12 21:00:55,673 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2019-11-12 21:00:55,673 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2019-11-12 21:00:55,673 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2019-11-12 21:00:55,689 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2019-11-12 21:00:55,720 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2019-11-12 21:00:55,783 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded 10116 badge definitions.
+2019-11-12 21:00:55,814 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 50 permissions.
+2019-11-12 21:00:55,814 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 8 permissions groups.
+2019-11-12 21:00:55,814 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 7 permissions group rights.
+2019-11-12 21:00:55,814 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 1 permissions subscription rights.
+2019-11-12 21:00:55,831 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2019-11-12 21:00:55,892 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (30000)!
+2019-11-12 21:00:55,892 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2019-11-12 21:00:55,892 INFO  - Plus.PlusEnvironment >> WADDOW EMULATOR -> DÉMARRÉ! (1 s, 687 ms)
+2019-11-12 21:44:50,845 INFO  - Plus.PlusEnvironment >> Fermeture en cours...
+2019-11-12 21:44:53,377 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:44:53,377 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> IVNENTORY IS SAVING
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> <<- SERVER SHUTDOWN ->> CLOSING CONNECTIONS
+2019-11-12 21:44:53,392 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2019-11-12 21:44:53,408 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 0%
+2019-11-12 21:44:53,439 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 33.33%
+2019-11-12 21:44:53,439 INFO  - Plus.HabboHotel.Rooms.RoomManager >> <<- SERVER SHUTDOWN ->> ROOM ITEM SAVE: 66.67%
+2019-11-12 21:44:53,439 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2019-11-12 21:44:53,502 INFO  - Plus.PlusEnvironment >> WADDOW S'EST arrêté correctement.

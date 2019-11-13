@@ -956,7 +956,6 @@
     <Compile Include="HabboRoleplay\Web\Outgoing\LookWebEvent.cs" />
     <Compile Include="HabboRoleplay\Web\Outgoing\FoutainWebEvent.cs" />
     <Compile Include="HabboRoleplay\Web\Outgoing\TelephoneWebEvent.cs" />
-    <Compile Include="HabboRoleplay\Web\Outgoing\BindowsWebEvent.cs" />
     <Compile Include="HabboRoleplay\Web\Outgoing\PanierWebEvent.cs" />
     <Compile Include="HabboRoleplay\Web\Outgoing\TransactionWebEvent.cs" />
     <Compile Include="HabboRoleplay\Web\Outgoing\LoginWebEvent.cs" />
