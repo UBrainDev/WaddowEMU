@@ -129,6 +129,7 @@ namespace Bobba.HabboRoleplay.Web
             this._webEvents.TryAdd("coiffure", new CoiffureWebEvent());
             this._webEvents.TryAdd("panier", new PanierWebEvent());
             this._webEvents.TryAdd("telephone", new TelephoneWebEvent());
+            this._webEvents.TryAdd("bindows", new BindowsWebEvent());
             this._webEvents.TryAdd("login", new LoginWebEvent());
             this._webEvents.TryAdd("item", new ItemWebEvent());
             this._webEvents.TryAdd("gang", new GangWebEvent());
