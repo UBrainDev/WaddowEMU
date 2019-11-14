@@ -1191,7 +1191,7 @@ namespace Plus.HabboHotel.Items
                             break;
                         #endregion
 
-                        #region MinePierre
+                        #region Minepierre
                         case InteractionType.MINEPIERRE:
 
                             if (ExtraData == "1")

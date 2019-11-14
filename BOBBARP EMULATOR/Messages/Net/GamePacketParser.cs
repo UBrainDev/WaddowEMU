@@ -92,7 +92,7 @@ namespace Plus.Net
             }
             catch (Exception e)
             {
-                //log.Error("Packet Error!", e);
+                log.Error("Packet Error!", e);
             }
         }
 

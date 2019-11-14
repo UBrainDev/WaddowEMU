@@ -10,7 +10,7 @@ using Plus.HabboHotel.Pathfinding;
 
 namespace Plus.HabboHotel.Items.Interactor
 {
-    public class InteractorTacos : IFurniInteractor
+    public class InteractorMinepierre : IFurniInteractor
     {
         public void OnPlace(GameClient Session, Item Item)
         {
@@ -65,7 +65,7 @@ namespace Plus.HabboHotel.Items.Interactor
                     return;
                 }
 
-                Session.GetHabbo().addCooldown("mine_pierre", 2000);
+                Session.GetHabbo().addCooldown("mine_pierre", 3000);
                 Item.InteractingUser = Session.GetHabbo().Id;
                 User.CanWalk = false;
                 User.ClearMovement(true);
@@ -78,9 +78,10 @@ namespace Plus.HabboHotel.Items.Interactor
                 int Energie = 50;
                 int NumberEnergie = 100 - Energie;
 
-                Random aleatoire = new Random();
-                int entier = aleatoire.next(); //Génère un entier aléatoire positif
-                int myrandom = aleatoire.next(100); //Génère un entier compris entre 0 et 9
+                Random rand = new Random();
+                int myrandom = rand.Next(100); 
+                System.Console.WriteLine(myrandom);
+
                 int recompense = 0;
 
                 if (myrandom >= 50)
