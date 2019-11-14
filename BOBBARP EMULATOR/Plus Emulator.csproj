@@ -636,6 +636,7 @@
     <Compile Include="HabboHotel\Items\Interactor\InteractorRobinet.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorDistributor.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorTacos.cs" />
+    <Compile Include="HabboHotel\Items\Interactor\InteractorMinepierre.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorBindows.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorTrash.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorRock.cs" />

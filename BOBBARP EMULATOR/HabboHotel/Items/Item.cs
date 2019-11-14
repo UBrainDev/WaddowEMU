@@ -450,6 +450,9 @@ namespace Plus.HabboHotel.Items
 
                     case InteractionType.TACOS:
                         return new InteractorTacos();
+
+                    case InteractionType.MINEPIERRE:
+                        return new InteractorMinepierre();
                         
                     case InteractionType.BINDOWS:
                         return new InteractorBindows();
@@ -1179,6 +1182,24 @@ namespace Plus.HabboHotel.Items
                                     User.CarryItem(60);
                                 }
 
+
+                                InteractingUser = 0;
+                                ExtraData = "0";
+
+                                UpdateState(false, true);
+                            }
+                            break;
+                        #endregion
+
+                        #region MinePierre
+                        case InteractionType.MINEPIERRE:
+
+                            if (ExtraData == "1")
+                            {
+                                User = GetRoom().GetRoomUserManager().GetRoomUserByHabbo(InteractingUser);
+                                if (User == null)
+                                    break;
+                                User.UnlockWalking();
 
                                 InteractingUser = 0;
                                 ExtraData = "0";

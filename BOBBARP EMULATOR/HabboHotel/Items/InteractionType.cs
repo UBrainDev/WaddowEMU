@@ -23,6 +23,7 @@ namespace Plus.HabboHotel.Items
         CANNABIS,
         DISTRIBUTOR,
         TACOS,
+        MINEPIERRE,
         BINDOWS,
         LOOK,
         CREATION,
@@ -208,6 +209,8 @@ namespace Plus.HabboHotel.Items
                     return InteractionType.DISTRIBUTOR;
                 case "tacos":
                     return InteractionType.TACOS;
+                case "minepierre":
+                    return InteractionType.MINEPIERRE;
                 case "bindows":
                     return InteractionType.BINDOWS;
                 case "look":
