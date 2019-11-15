@@ -194,6 +194,7 @@ namespace Plus.HabboHotel.Items.Interactor
 
                 Session.SendMessage(new CreditBalanceComposer(Session.GetHabbo().Credits));
                 PlusEnvironment.GetGame().GetWebEventManager().SendDataDirect(Session, "my_stats;" + Session.GetHabbo().Credits + ";" + Session.GetHabbo().Duckets + ";" + Session.GetHabbo().EventPoints);
+                Session.GetHabbo().Energie -= 1;
 
                 if (recompense >= 1)
                 {
@@ -203,8 +204,6 @@ namespace Plus.HabboHotel.Items.Interactor
                 {
                     User.OnChat(User.LastBubble, "* Mine une pierre mais n'y trouve aucun crédit... *", true);
                 }
-                
-                Session.GetHabbo().Energie -= 1;
                 
             }
         }

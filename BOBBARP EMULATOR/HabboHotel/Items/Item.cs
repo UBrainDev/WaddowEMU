@@ -451,6 +451,9 @@ namespace Plus.HabboHotel.Items
                     case InteractionType.TACOS:
                         return new InteractorTacos();
 
+                    case InteractionType.GOULAG:
+                        return new InteractorGoulag();
+
                     case InteractionType.MINEPIERRE:
                         return new InteractorMinepierre();
                         
@@ -1191,8 +1194,8 @@ namespace Plus.HabboHotel.Items
                             break;
                         #endregion
 
-                        #region Minepierre
-                        case InteractionType.MINEPIERRE:
+                        #region Goulag
+                        case InteractionType.GOULAG:
 
                             if (ExtraData == "1")
                             {
@@ -1200,6 +1203,36 @@ namespace Plus.HabboHotel.Items
                                 if (User == null)
                                     break;
                                 User.UnlockWalking();
+                                if (GetBaseItem().VendingIds.Count > 0)
+                                {
+                                    User.CarryItem(34);
+                                }
+
+
+                                InteractingUser = 0;
+                                ExtraData = "0";
+
+                                UpdateState(false, true);
+                            }
+                            break;
+                        #endregion
+
+                        #region Minepierre
+                        case InteractionType.MINEPIERRE:
+
+                            System.Console.WriteLine(1515);
+
+                            if (ExtraData == "1")
+                            {
+                                User = GetRoom().GetRoomUserManager().GetRoomUserByHabbo(InteractingUser);
+                                if (User == null)
+                                    break;
+                                User.UnlockWalking();
+                                if (GetBaseItem().VendingIds.Count > 0)
+                                {
+                                    User.CarryItem(48);
+                                }
+
 
                                 InteractingUser = 0;
                                 ExtraData = "0";
