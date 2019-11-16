@@ -239,3 +239,15 @@ C:\Users\cédric\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\Plus 
 C:\Users\cédric\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\Plus Emulator.csproj.CopyComplete
 C:\Users\cédric\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\BobbaRP Emulator.exe
 C:\Users\cédric\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\BobbaRP Emulator.pdb
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\BobbaRP Emulator.exe.config
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\BobbaRP Emulator.exe
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\BobbaRP Emulator.pdb
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\log4net.dll
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\log4net.xml
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\Plus Emulator.csproj.CopyComplete
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\BobbaRP Emulator.exe
+C:\Users\asus\Documents\GitHub\WaddowEMU\BOBBARP EMULATOR\obj\x86\Debug\BobbaRP Emulator.pdb

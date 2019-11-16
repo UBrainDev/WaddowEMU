@@ -5,8 +5,12 @@
     "\\BOBBARP EMULATOR\\HabboHotel",
     "\\BOBBARP EMULATOR\\HabboHotel\\Items",
     "\\BOBBARP EMULATOR\\HabboHotel\\Items\\Interactor",
-    "\\BOBBARP EMULATOR\\Web"
+    "\\BOBBARP EMULATOR\\HabboHotel\\Rooms",
+    "\\BOBBARP EMULATOR\\HabboHotel\\Rooms\\AI",
+    "\\BOBBARP EMULATOR\\HabboHotel\\Rooms\\PathFinding",
+    "\\BOBBARP EMULATOR\\HabboRoleplay",
+    "\\BOBBARP EMULATOR\\HabboRoleplay\\Web",
+    "\\BOBBARP EMULATOR\\HabboRoleplay\\Web\\Outgoing"
   ],
-  "SelectedNode": "\\BOBBARP EMULATOR\\BobbaRP Emulator.sln",
   "PreviewInSolutionExplorer": false
 }
