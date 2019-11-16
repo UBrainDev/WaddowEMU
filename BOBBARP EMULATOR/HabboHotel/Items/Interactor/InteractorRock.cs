@@ -4,30 +4,27 @@ using Plus.HabboHotel.GameClients;
 using Plus.HabboHotel.Rooms;
 using Plus.HabboHotel.Users;
 using Plus.HabboHotel.Groups;
-using Plus.Communication.Packets.Outgoing.Rooms.Chat;
-using Plus.Communication.Packets.Outgoing.Inventory.Purse;
-using Plus.HabboHotel.Pathfinding;
 
 namespace Plus.HabboHotel.Items.Interactor
 {
     public class InteractorRock : IFurniInteractor
     {
+        public void OnPlace(GameClient Session, Item Item)
+        {
+        }
 
         public void OnRemove(GameClient Session, Item Item)
         {
         }
 
-        public void OnPlace(GameClient Session, Item Item)
-        {
-        }
-
         public void OnTrigger(GameClient Session, Item Item, int Request, bool HasRights)
         {
-            if (Item.ExtraData != "1" && Item.GetBaseItem().VendingIds.Count >= 1 && Item.InteractingUser == 0 && Session != null)
-            {
-                RoomUser User = Item.GetRoom().GetRoomUserManager().GetRoomUserByHabbo(Session.GetHabbo().Id);
-                if (User.IsTrading)
-                    return;
+            if (Session == null)
+                return;
+            
+            RoomUser User = Item.GetRoom().GetRoomUserManager().GetRoomUserByHabbo(Session.GetHabbo().Id);
+            if (User.IsTrading)
+                return;
 
                 if (!Gamemap.TilesTouching(Item.GetX, Item.GetY, User.Coordinate.X, User.Coordinate.Y))
                 {
@@ -79,8 +76,7 @@ namespace Plus.HabboHotel.Items.Interactor
                 }else
 
                 Session.GetHabbo().Credits += recompense;
-
-                Session.SendMessage(new CreditBalanceComposer(Session.GetHabbo().Credits));
+                
                 PlusEnvironment.GetGame().GetWebEventManager().SendDataDirect(Session, "my_stats;" + Session.GetHabbo().Credits + ";" + Session.GetHabbo().Duckets + ";" + Session.GetHabbo().EventPoints);
                 Session.GetHabbo().Energie -= 1;
 
@@ -92,8 +88,6 @@ namespace Plus.HabboHotel.Items.Interactor
                 {
                     User.OnChat(User.LastBubble, "* Mine une pierre mais n'y trouve aucun crédit... *", true);
                 }
-                
-            }
         }
 
         public void OnWiredTrigger(Item Item)
