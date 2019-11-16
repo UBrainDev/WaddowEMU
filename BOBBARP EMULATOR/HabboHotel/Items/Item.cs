@@ -1230,7 +1230,7 @@ namespace Plus.HabboHotel.Items
                                 User.UnlockWalking();
                                 if (GetBaseItem().VendingIds.Count > 0)
                                 {
-                                    User.CarryItem(48);
+                                    User.CarryItem(39);
                                 }
 
 

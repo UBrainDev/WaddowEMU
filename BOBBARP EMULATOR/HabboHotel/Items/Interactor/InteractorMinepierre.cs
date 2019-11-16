@@ -84,9 +84,21 @@ namespace Plus.HabboHotel.Items.Interactor
 
                 int recompense = 0;
 
-                if (myrandom >= 50)
+                if (myrandom < 75)
                 {
+                    recompense = 0;
+                }else if(myrandom <= 82.5){
+                    recompense = 1;
+                }else if(myrandom <= 95){
+                    recompense = 2;
+                }else if(myrandom <= 97.5){
                     recompense = 3;
+                }else if(myrandom <= 98.75){
+                    recompense = 5;
+                }else if(myrandom <= 99.5){
+                    recompense = 15;
+                }else if(myrandom <= 100){
+                    recompense = 30;
                 }
 
                 Session.GetHabbo().Credits += recompense;
