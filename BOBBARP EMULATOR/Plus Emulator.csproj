@@ -641,6 +641,7 @@
     <Compile Include="HabboHotel\Items\Interactor\InteractorBindows.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorTrash.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorRock.cs" />
+    <Compile Include="HabboHotel\Items\Interactor\InteractorOldRock.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorCapture.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorCounter.cs" />
     <Compile Include="HabboHotel\Items\Interactor\InteractorATM.cs" />

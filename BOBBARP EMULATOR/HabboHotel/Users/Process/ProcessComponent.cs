@@ -110,22 +110,6 @@ namespace Plus.HabboHotel.Users.Process
                 if (User == null)
                     return;
 
-                if (User.isFarmingRock > 0)
-                {
-                    this._player.GetClient().SendWhisper("Vous venez de casser 0,1kg de pierre.");
-                    User.isFarmingRock = User.isFarmingRock - 1;
-                    this._player.resetEffectEvent();
-                    this._player.Pierre = this._player.Pierre + 0.1;
-                    this._player.updatePierre();
-
-                    if (User.isFarmingRock <= 0)
-                    {
-                        User.OnChat(User.LastBubble, "* Fini de casser la pierre *", true);
-                    }
-
-                    return;
-                }
-
                 if (this._player.Travaille == false)
                     return;
 
