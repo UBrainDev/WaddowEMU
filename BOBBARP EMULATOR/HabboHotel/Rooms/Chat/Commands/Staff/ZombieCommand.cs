@@ -13,7 +13,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
     {
         public bool getPermission(GameClient Session)
         {
-            if (Session.GetHabbo().Rank == 8 && Session.GetHabbo().Username == "ADMIN-UBrain")
+            if (Session.GetHabbo().Rank == 8 && Session.GetHabbo().Username == "ADMIN-UBrain" || Session.GetHabbo().Username == "ADMIN-Soubes")
                 return true;
 
             return false;
@@ -36,7 +36,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
 
         public void Execute(GameClient Session, Room Room, string[] Params)
         {
-            /* 
+            
             if(PlusEnvironment.ManVsZombieLoading == true || PlusEnvironment.ManVsZombie != 0)
             {
                 Session.SendWhisper("Une salade est déjà organisée.");
@@ -213,7 +213,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
                 timer13.Stop();
             };
             timer13.Start();
-            */
+            
         }
     }
 }
