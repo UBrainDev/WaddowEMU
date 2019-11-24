@@ -772,7 +772,7 @@
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Directeurs\RecruterCommand.cs" />
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Travaux\Coiffure\VendreCommand.cs" />
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Armes\TirerCommand.cs" />
-    <Compile Include="HabboHotel\Rooms\Chat\Commands\Staff\TaxiCommand.cs" />
+    <Compile Include="HabboHotel\Rooms\Chat\Commands\Divers\TaxiCommand.cs" />
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Travaux\Banque\RetirerCommand.cs" />
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Travaux\Police\MenotterCommand.cs" />
     <Compile Include="HabboHotel\Rooms\Chat\Commands\Travaux\Banque\DeposerCommand.cs" />
