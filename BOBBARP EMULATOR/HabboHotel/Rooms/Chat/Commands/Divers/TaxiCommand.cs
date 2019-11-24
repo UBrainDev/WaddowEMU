@@ -13,8 +13,8 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
     {
         public bool getPermission(GameClient Session)
         {
-            /*if (Session.GetHabbo().Rank == 8 || Session.GetHabbo().TravailId == 18)
-                return true;*/
+            if (Session.GetHabbo().Rank == 1 || Session.GetHabbo().TravailId == 18)
+                return true;
 
             return false;
         }
