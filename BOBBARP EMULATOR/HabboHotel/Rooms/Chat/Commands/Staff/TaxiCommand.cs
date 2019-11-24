@@ -18,7 +18,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
 
             return false;
         }
-
+        
         public string TypeCommand
         {
             get { return "staff"; }
@@ -80,10 +80,18 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
                 Session.SendWhisper("Impossible d'aller dans cet appartement.");
                 return;
             }
-
-            User.OnChat(User.LastBubble, "* Utilise son jet privé pour se rendre à [" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
+            if (Session.GetHabbo().Rank != 8)
+            {
+            User.OnChat(User.LastBubble, "* Appel un fdp et se rend à[" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
             Session.GetHabbo().CanChangeRoom = true;
             Session.GetHabbo().PrepareRoom(Convert.ToInt32(Params[1]), "");
-        }
+            }
+            else{
+            User.OnChat(User.LastBubble, "* Appel un taxi et se rend à[" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
+            Session.GetHabbo().CanChangeRoom = true;
+            Session.GetHabbo().PrepareRoom(Convert.ToInt32(Params[1]), "");
+            }
+         
     }
 }
+    }
