@@ -13,15 +13,15 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
     {
         public bool getPermission(GameClient Session)
         {
-            if (Session.GetHabbo().Rank == 1 || Session.GetHabbo().TravailId == 18)
+            if (Session.GetHabbo().Rank == 8 || Session.GetHabbo().TravailId == 18)
                 return true;
 
             return false;
         }
-        
+
         public string TypeCommand
         {
-            get { return "divers"; }
+            get { return "staff"; }
         }
 
         public string Parameters
@@ -56,7 +56,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
                 return;
             }
 
-            if(TargetRoom.Id == PlusEnvironment.Salade)
+            if (TargetRoom.Id == PlusEnvironment.Salade)
             {
                 Session.SendWhisper("Vous ne pouvez pas vous rendre dans l'appartement [" + Params[1] + "] car une salade y est organisée.");
                 return;
@@ -80,18 +80,13 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands.User
                 Session.SendWhisper("Impossible d'aller dans cet appartement.");
                 return;
             }
-            if (Session.GetHabbo().Rank != 8)
-            {
-            User.OnChat(User.LastBubble, "* Appel un fdp et se rend à[" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
-            Session.GetHabbo().CanChangeRoom = true;
-            Session.GetHabbo().PrepareRoom(Convert.ToInt32(Params[1]), "");
-            }
-            else{
-            User.OnChat(User.LastBubble, "* Appel un taxi et se rend à[" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
-            Session.GetHabbo().CanChangeRoom = true;
-            Session.GetHabbo().PrepareRoom(Convert.ToInt32(Params[1]), "");
-            }
-         
+            
+                User.OnChat(User.LastBubble, "* Appel un fdp et se rend à[" + TargetRoom.Id + "] " + TargetRoom.Name + " *", true);
+                Session.GetHabbo().CanChangeRoom = true;
+                Session.GetHabbo().PrepareRoom(Convert.ToInt32(Params[1]), "");
+            
+           
+
+        }
     }
 }
-    }

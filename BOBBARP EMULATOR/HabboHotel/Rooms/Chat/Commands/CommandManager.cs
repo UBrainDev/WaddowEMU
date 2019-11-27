@@ -198,7 +198,6 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands
             this.Register("facebook", new FacebookCommand());
             this.Register("sit", new SitCommand());
             this.Register("emptyitems", new EmptyItemsCommand());
-            this.Register("taxi", new TaxiCommand());
         }
 
         private void RegisterApparts()
@@ -349,6 +348,7 @@ namespace Plus.HabboHotel.Rooms.Chat.Commands
             this.Register("roommute", new RoommuteCommand());
             this.Register("enable", new EnableCommand());
             this.Register("summon", new SummonCommand());
+            this.Register("taxi", new TaxiCommand());
             this.Register("ban", new BanCommand());
             this.Register("ipban", new IPBanCommand());
             this.Register("ui", new UserInfoCommand());
